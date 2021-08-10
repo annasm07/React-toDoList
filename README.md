@@ -1,6 +1,6 @@
 # React App - To Do List FULL STACK
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app), nodeJS, ExpressJS and MongoDB.
 
 ## FRONTEND - Design and Development
 Clone the Repository using 'git clone'
